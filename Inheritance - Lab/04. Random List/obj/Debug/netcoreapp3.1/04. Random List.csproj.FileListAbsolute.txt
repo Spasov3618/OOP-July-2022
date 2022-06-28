@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.genruntimeconfig.cache

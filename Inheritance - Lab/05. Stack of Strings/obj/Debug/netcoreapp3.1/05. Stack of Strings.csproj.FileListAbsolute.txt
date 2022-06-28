@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.genruntimeconfig.cache
