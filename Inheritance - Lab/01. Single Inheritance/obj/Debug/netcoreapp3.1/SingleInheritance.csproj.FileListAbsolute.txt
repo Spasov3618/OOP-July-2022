@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache
