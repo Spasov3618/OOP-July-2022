@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

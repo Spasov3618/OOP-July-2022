@@ -9,7 +9,7 @@ namespace NeedForSpeed
         public RaceMotorcycle(double fuel, int horcePower) : base(fuel, horcePower)
         {
         }
-        public const double DefaultFuelConsumption = 8;
-        public override double FuelConsumption => DefaultFuelConsumption;
+
+        public override double FuelConsumption => 8;
     }
 }
