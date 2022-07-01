@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace NeedForSpeed
+﻿namespace NeedForSpeed
 {
     public class Car : Vehicle
     {
-        public Car(double fuel, int horcePower) : base(fuel, horcePower)
+        private const double DefaultFuelConsumption = 3;
+        public Car(double fuel, int horcePower) 
+            : base(fuel, horcePower)
         {
+
         }
 
-        public const double DefaultFuelConsumption = 3;
 
         public override double FuelConsumption => DefaultFuelConsumption;
     }
