@@ -3,7 +3,7 @@
     using System;
     using System.Text;
 
-    public abstract class Animal
+    public  class Animal
     {
         private string name;
 
@@ -24,7 +24,7 @@
 
             private set
             {
-                if (string.IsNullOrWhiteSpace(value) || string.IsNullOrEmpty(value))
+                if (string.IsNullOrWhiteSpace (value) || string.IsNullOrEmpty (value))
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -39,7 +39,7 @@
 
             private set
             {
-                if (value <= 0)
+                if (value < 0  )
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -54,7 +54,7 @@
 
             private set
             {
-                if (string.IsNullOrWhiteSpace(value) || string.IsNullOrEmpty(value))
+                if (string.IsNullOrWhiteSpace (value) || string.IsNullOrEmpty (value))
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -67,6 +67,18 @@
         {
             return null;
         }
+        public static Animal Create(string name, int age, string gender, string type)
+        {
+            switch (type)
+            {
+                case "Dog": return new Dog(name, age, gender);
+                case "Cat": return new Cat(name, age, gender);
+                case "Frog": return new Frog(name, age, gender);
+                case "Kitten": return new Kitten(name, age, gender);
+                case "Tomcat": return new Tomcat(name, age, gender);
+                default: throw new ArgumentException("Invalid input!");
+            }
+        }
 
         public override string ToString()
         {
@@ -75,7 +87,7 @@
             printFormat.AppendLine($"{this.Name} {this.Age} {this.Gender}");
             printFormat.Append($"{this.ProduceSound()}");
 
-            return printFormat.ToString();
+            return printFormat.ToString().TrimEnd();
         }
     }
 }

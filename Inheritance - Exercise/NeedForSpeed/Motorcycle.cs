@@ -1,12 +1,10 @@
 ﻿
 namespace NeedForSpeed
 {
-    public class Motorcycle: Vehicle
+    public class Motorcycle : Vehicle
     {
-        public Motorcycle(double fuel, int horcePower) 
-            : base(fuel, horcePower)
+        public Motorcycle(int horcePower, double fuel) : base(horcePower, fuel)
         {
-
         }
     }
 }

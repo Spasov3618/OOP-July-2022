@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\bin\Debug\netcoreapp3.1\FootballTeamGenerator2.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\bin\Debug\netcoreapp3.1\FootballTeamGenerator2.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\bin\Debug\netcoreapp3.1\FootballTeamGenerator2.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\bin\Debug\netcoreapp3.1\FootballTeamGenerator2.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\bin\Debug\netcoreapp3.1\FootballTeamGenerator2.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\bin\Debug\netcoreapp3.1\FootballTeamGenerator2.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Encapsulation - Exercise\FootballTeamGenerator2\obj\Debug\netcoreapp3.1\FootballTeamGenerator2.genruntimeconfig.cache

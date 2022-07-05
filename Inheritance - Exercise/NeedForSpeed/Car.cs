@@ -3,13 +3,10 @@
     public class Car : Vehicle
     {
         private const double DefaultFuelConsumption = 3;
-        public Car(double fuel, int horcePower) 
-            : base(fuel, horcePower)
+
+        public Car(int horcePower, double fuel) : base(horcePower, fuel)
         {
-
         }
-
-
         public override double FuelConsumption => DefaultFuelConsumption;
     }
 }

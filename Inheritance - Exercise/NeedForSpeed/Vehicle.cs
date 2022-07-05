@@ -3,10 +3,12 @@
     public class Vehicle
     {
         private const double DefaultFuelConsumption = 1.25;
-        public Vehicle(double fuel, int horcePower)
+
+        public Vehicle( int horcePower, double fuel)
         {
-            Fuel = fuel;
+           
             HorcePower = horcePower;
+            Fuel = fuel;
         }
 
         public virtual double FuelConsumption => DefaultFuelConsumption;
@@ -15,11 +17,10 @@
 
         public virtual void Drive(double kilometers)
         {
-            if (Fuel - kilometers*FuelConsumption >=0)
-                {
+            
 
             Fuel -= kilometers * FuelConsumption;
-                }
+                
 
 
             

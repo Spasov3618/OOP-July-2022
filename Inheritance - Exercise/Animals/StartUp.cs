@@ -5,7 +5,7 @@
 
     public class StartUp
     {
-        static void Main()
+       public static void Main()
         {
             List<Animal> animals = new List<Animal>();
 
@@ -17,13 +17,13 @@
                     break;
                 }
 
-                string animalType = inputLine;
-                string[] animalInfo = Console.ReadLine().Split();
+                string animalType = inputLine.Trim();
+                string[] animalInfo = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries);
 
                 try
                 {
-                    Animal animal = AnimalFactory.Create(animalType, animalInfo[0]
-                                         , int.Parse(animalInfo[1]), animalInfo[2]);
+                    Animal animal = Animal.Create( animalInfo[0]
+                                         , int.Parse(animalInfo[1]), animalInfo[2], animalType);
 
                     animals.Add(animal);
                 }

@@ -3,10 +3,8 @@ namespace NeedForSpeed
 {
     public class FamilyCar : Car
     {
-        public FamilyCar(double fuel, int horcePower)
-            : base(fuel, horcePower)
+        public FamilyCar(int horcePower, double fuel) : base(horcePower, fuel)
         {
-
         }
     }
 }
