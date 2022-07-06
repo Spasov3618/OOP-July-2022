@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineanInterfaceIPerson.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineanInterfaceIPerson.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineanInterfaceIPerson.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineanInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineanInterfaceIPerson.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineanInterfaceIPerson.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Interfaces and Abstraction - Exercise\DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineanInterfaceIPerson.genruntimeconfig.cache
