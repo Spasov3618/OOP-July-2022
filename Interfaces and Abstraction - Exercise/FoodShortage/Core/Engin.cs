@@ -34,6 +34,7 @@ namespace FoodShortage
             {
                 if (citizens.Any(n=> n.Name == buyFood))
                 {
+                 
                     TotalFood += 10; 
                 }
                 else if (rebels.Any(n=>n.Name == buyFood))
