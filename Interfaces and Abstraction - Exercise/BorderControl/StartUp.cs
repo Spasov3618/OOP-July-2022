@@ -2,11 +2,12 @@
 
 namespace BorderControl
 {
-    internal class Program
+    public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Engin engin = new Engin();
+            engin.Run();
         }
     }
 }
