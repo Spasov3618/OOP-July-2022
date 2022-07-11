@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodShortage", "FoodShortag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MilitaryElite", "MilitaryElite\MilitaryElite.csproj", "{5E3F3E9B-A391-4D42-AAAD-E6333A256F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionHierarchy", "CollectionHierarchy\CollectionHierarchy.csproj", "{95F71C68-A1EA-4DAB-8E9C-E0F4D848D4E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionHierarchy", "CollectionHierarchy\CollectionHierarchy.csproj", "{95F71C68-A1EA-4DAB-8E9C-E0F4D848D4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterfaces", "ExplicitInterfaces\ExplicitInterfaces.csproj", "{4A2D5E5A-1C92-495F-B395-BA84BEEFE2C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{95F71C68-A1EA-4DAB-8E9C-E0F4D848D4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F71C68-A1EA-4DAB-8E9C-E0F4D848D4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F71C68-A1EA-4DAB-8E9C-E0F4D848D4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2D5E5A-1C92-495F-B395-BA84BEEFE2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2D5E5A-1C92-495F-B395-BA84BEEFE2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2D5E5A-1C92-495F-B395-BA84BEEFE2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2D5E5A-1C92-495F-B395-BA84BEEFE2C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
