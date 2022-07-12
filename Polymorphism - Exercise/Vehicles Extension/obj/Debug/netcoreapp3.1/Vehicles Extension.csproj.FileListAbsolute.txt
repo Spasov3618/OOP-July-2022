@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\bin\Debug\netcoreapp3.1\Vehicles Extension.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\bin\Debug\netcoreapp3.1\Vehicles Extension.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\bin\Debug\netcoreapp3.1\Vehicles Extension.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\bin\Debug\netcoreapp3.1\Vehicles Extension.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\bin\Debug\netcoreapp3.1\Vehicles Extension.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\bin\Debug\netcoreapp3.1\Vehicles Extension.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Exercise\Vehicles Extension\obj\Debug\netcoreapp3.1\Vehicles Extension.genruntimeconfig.cache
