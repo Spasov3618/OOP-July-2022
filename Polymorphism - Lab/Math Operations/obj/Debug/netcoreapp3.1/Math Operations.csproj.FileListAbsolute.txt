@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\bin\Debug\netcoreapp3.1\Math Operations.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Polymorphism - Lab\Math Operations\obj\Debug\netcoreapp3.1\Math Operations.genruntimeconfig.cache
