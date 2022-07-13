@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\bin\Debug\netcoreapp3.1\Square Root.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\bin\Debug\netcoreapp3.1\Square Root.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\bin\Debug\netcoreapp3.1\Square Root.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\bin\Debug\netcoreapp3.1\Square Root.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\bin\Debug\netcoreapp3.1\Square Root.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\bin\Debug\netcoreapp3.1\Square Root.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Square Root\obj\Debug\netcoreapp3.1\Square Root.genruntimeconfig.cache
