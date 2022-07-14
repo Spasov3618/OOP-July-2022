@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square Root", "Square Root\Square Root.csproj", "{592708AD-186E-49C5-BA8A-74C7C87980F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square Root", "Square Root\Square Root.csproj", "{592708AD-186E-49C5-BA8A-74C7C87980F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enter Numbers", "Enter Numbers\Enter Numbers.csproj", "{BF6A1968-648A-423F-8BFE-78D17A2503BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enter Numbers", "Enter Numbers\Enter Numbers.csproj", "{BF6A1968-648A-423F-8BFE-78D17A2503BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{E1152F68-E73B-43C4-BE7C-9FB0DC5D118A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BF6A1968-648A-423F-8BFE-78D17A2503BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6A1968-648A-423F-8BFE-78D17A2503BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6A1968-648A-423F-8BFE-78D17A2503BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1152F68-E73B-43C4-BE7C-9FB0DC5D118A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1152F68-E73B-43C4-BE7C-9FB0DC5D118A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1152F68-E73B-43C4-BE7C-9FB0DC5D118A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1152F68-E73B-43C4-BE7C-9FB0DC5D118A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

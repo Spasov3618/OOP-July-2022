@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache
