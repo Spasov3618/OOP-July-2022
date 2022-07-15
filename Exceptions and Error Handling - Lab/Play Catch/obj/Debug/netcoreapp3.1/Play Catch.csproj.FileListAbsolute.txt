@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\bin\Debug\netcoreapp3.1\Play Catch.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\bin\Debug\netcoreapp3.1\Play Catch.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\bin\Debug\netcoreapp3.1\Play Catch.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\bin\Debug\netcoreapp3.1\Play Catch.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\bin\Debug\netcoreapp3.1\Play Catch.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\bin\Debug\netcoreapp3.1\Play Catch.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Exceptions and Error Handling - Lab\Play Catch\obj\Debug\netcoreapp3.1\Play Catch.genruntimeconfig.cache
