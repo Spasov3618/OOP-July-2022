@@ -27,7 +27,7 @@ namespace Money_Transactions
                         int bankNumber = int.Parse(command[1]);
                         double sum = double.Parse(command[2]);
                         acc[bankNumber] += sum;
-                        Console.WriteLine($"Account {bankNumber} has new balance: {acc[bankNumber]}");
+                        Console.WriteLine($"Account {bankNumber} has new balance: {acc[bankNumber]:f2}");
                     }
                     else if (command[0] == "Withdraw")
                     {
@@ -36,7 +36,7 @@ namespace Money_Transactions
                         if (acc[bankNumber]>= sum)
                         {
                         acc[bankNumber] -= sum;
-                            Console.WriteLine($"Account {bankNumber} has new balance: {acc[bankNumber]}");
+                            Console.WriteLine($"Account {bankNumber} has new balance: {acc[bankNumber]:f2}");
 
                         }
                         else
