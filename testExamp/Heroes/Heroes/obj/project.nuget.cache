@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OrLdNM+GMltwiB49ITlOePU6Ur89tYoIfU6XuATHVfC+Z4CpgPjelZj44v3+MVvkQupZhcn04p9YmnPDkRI5Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\testExamp\\Heroes\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
