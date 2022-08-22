@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\Examp\New folder\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache
