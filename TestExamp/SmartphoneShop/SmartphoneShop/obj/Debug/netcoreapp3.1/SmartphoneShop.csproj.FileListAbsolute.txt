@@ -1,0 +1,14 @@
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+C:\Users\sv.spasov\source\repos\OOP\OOP-July-2022\TestExamp\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache
