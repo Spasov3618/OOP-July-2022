@@ -55,14 +55,14 @@ namespace BookigApp.Tests
             var rezult = hotel.Turnover;
             Assert.AreEqual(0, rezult);
         }
-        //[Test]
-        //public void AddRoom()
-        //{
-        //    Room room = new Room(10, 20);
-        //    Hotel hotel = new Hotel("Sofia",20);
-        //    hotel.AddRoom(room);
-        //    Assert.AreEqual(hotel.Rooms.Count,10);
-        //}
+        [Test]
+        public void AddRoom()
+        {
+            Room room = new Room(10, 20);
+            Hotel hotel = new Hotel("Sofia", 5);
+            hotel.AddRoom(room);
+            Assert.AreEqual(hotel.Rooms.Count, 1);
+        }
         [Test]
         public void ThrowBookRoom()
         {
@@ -74,15 +74,46 @@ namespace BookigApp.Tests
             Assert.Throws<ArgumentException>(() => hotel.BookRoom(1, -1, 3, 20));
             Assert.Throws<ArgumentException>(() => hotel.BookRoom(1, 1, 0, 20));
         }
-        //[Test]
-        //public void BookRoom()
-        //{
-        //    Hotel hotel = new Hotel("Sofia", 4);
-        //    Room room = new Room(20, 30);
-        //    hotel.AddRoom(room);
-        //    hotel.BookRoom(2, 1, 3, 20);
-        //    Assert.AreEqual()
+        [Test]
+        public void BookRoom_NoBookingForNotEnoughBeds()
+        {
+            var hotel = new Hotel("HotelName", 5);
+            var room = new Room(3, 53);
+            hotel.AddRoom(room);
 
-        //}
+            hotel.BookRoom(4, 1, 2, 200);
+
+            Assert.That(hotel.Turnover.Equals(0));
+        }
+
+        [Test]
+        public void BookRoom_WorksProperly()
+        {
+            var hotel = new Hotel("HotelName", 5);
+            var room = new Room(5, 53);
+            hotel.AddRoom(room);
+
+            hotel.BookRoom(4, 1, 2, 106);
+            double expectedTurnover = 106;
+
+            Assert.AreEqual(expectedTurnover, hotel.Turnover);
+            Assert.That(hotel.Bookings.Count.Equals(1));
+            Assert.That(hotel.Rooms.Count.Equals(1));
+        }
+
+        [Test]
+        public void BookRoom_NoBookingIfTooLowBudget()
+        {
+            var hotel = new Hotel("HotelName", 5);
+            var room = new Room(5, 53);
+            hotel.AddRoom(room);
+
+            hotel.BookRoom(4, 1, 2, 100);
+            double expectedTurnover = 0;
+
+            Assert.AreEqual(expectedTurnover, hotel.Turnover);
+            Assert.That(hotel.Bookings.Count.Equals(0));
+            Assert.That(hotel.Rooms.Count.Equals(1));
+        }
     }
 }
