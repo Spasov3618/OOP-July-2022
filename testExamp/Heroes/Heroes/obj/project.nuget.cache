@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrLdNM+GMltwiB49ITlOePU6Ur89tYoIfU6XuATHVfC+Z4CpgPjelZj44v3+MVvkQupZhcn04p9YmnPDkRI5Kw==",
+  "dgSpecHash": "GaECIN5prPIMernhqlNpM+7rFMC37P2/ikIiQP8ZGv36QKPJzdvkskli5SSEpVLXF1yz60L21iBTd3CPmwhuGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\testExamp\\Heroes\\Heroes\\Heroes.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\TestExamp\\Heroes\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
