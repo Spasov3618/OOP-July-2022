@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj",
         "projectName": "BookigApp.Tests",
-        "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj",
-        "packagesPath": "C:\\Users\\sv.spasov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\BookigApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\BookigApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sv.spasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj": {
-                "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj"
+              "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj"
               }
             }
           }
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj",
         "projectName": "FrontDeskApp",
-        "projectPath": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj",
-        "packagesPath": "C:\\Users\\sv.spasov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sv.spasov\\source\\repos\\OOP\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\FrontDeskApp.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\repo\\OOP-July-2022\\Examp\\Unit\\FrontDeskApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sv.spasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,7 +122,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
