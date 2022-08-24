@@ -8,34 +8,30 @@ namespace BookingApp.Models.Rooms
 {
     public abstract class Room : IRoom
     {
-        
-        private double pricePerNight =0;
         private int bedCapacity;
-
-        protected Room(int  bedCapacity)
+        private double pricePerNight = 0;
+        protected Room(int bedCapacity)
         {
             this.bedCapacity = bedCapacity;
-            this.PricePerNight = pricePerNight;
         }
-        public int BedCapacity => bedCapacity;
+        public int BedCapacity => this.bedCapacity;
 
         public double PricePerNight
         {
-            get { return PricePerNight; }
+            get => this.pricePerNight;
             private set
             {
-                if (value<0)
+                if (value < 0)
                 {
-                    throw new ArgumentException(ExceptionMessages.PricePerNightNegative);
+                    throw new ArgumentException(string.Format(ExceptionMessages.PricePerNightNegative));
                 }
-                PricePerNight = value;
+                this.pricePerNight = value;
             }
-
         }
 
         public void SetPrice(double price)
         {
-            pricePerNight = price;
+            this.PricePerNight = price;
         }
     }
 }

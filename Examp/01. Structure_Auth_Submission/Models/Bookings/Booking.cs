@@ -50,9 +50,9 @@ namespace BookingApp.Models.Bookings
             }
         }
 
-        public int ChildrenCount
-        {
-            get => childrenCount;
+        public int ChildrenCount 
+        { 
+            get => childrenCount; 
             private set
             {
                 if (value < 0)
@@ -67,7 +67,7 @@ namespace BookingApp.Models.Bookings
 
         public string BookingSummary()
         {
-            StringBuilder sb = new StringBuilder();
+           StringBuilder sb = new StringBuilder();
 
             sb.AppendLine($"Booking number: {this.BookingNumber}");
             sb.AppendLine($"Room type: {this.Room.GetType().Name}");
@@ -78,6 +78,6 @@ namespace BookingApp.Models.Bookings
             return sb.ToString().TrimEnd();
         }
 
-        private double TotalPaid() => Math.Round(this.Room.PricePerNight * this.residenceDuration, 2);
+        private  double TotalPaid() =>  Math.Round(this.Room.PricePerNight * this.residenceDuration, 2);
     }
 }

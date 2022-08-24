@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using BookingApp.Repositories;
 
 namespace BookingApp.Models.Hotels
 {
@@ -23,6 +24,8 @@ namespace BookingApp.Models.Hotels
         {
             this.FullName = name;
             this.Category = category;
+            Rooms = new RoomRepository();
+            Bookings = new BookingRepository();
             
 
            
@@ -54,7 +57,7 @@ namespace BookingApp.Models.Hotels
             }
         }
 
-        public double Turnover { get; }
+        public double Turnover => Math.Round(Bookings.All().Sum(x => x.ResidenceDuration * x.Room.PricePerNight), 2);
 
         public IRepository<IRoom> Rooms
         {
